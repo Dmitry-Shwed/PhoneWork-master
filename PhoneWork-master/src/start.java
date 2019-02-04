@@ -15,7 +15,7 @@ public class start {
 
 // Запускаем диалоговое окно
 
-//12
+//123
 //создаем файл для записи телефонов на пробивку
         int Data_COLUMN_NUMBER = 0;
         int TimeOfCall_COLUMN_NUMBER = 1;
